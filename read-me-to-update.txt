@@ -1,0 +1,11 @@
+Update guide:
+
+1. Extract the downloaded file from codecanyon.
+
+2. Please keep an old copy of your current version for any kind of accidental breaking issues.
+
+3. There you will get a zip folder named ‘updates.zip’. Upload that to the root directory on your server in which your previous version is running. Right Click on the zip file. Unzip that "updates.zip" file by selecting “Extract here”.
+
+4. Now go to the home page of your website and click on ‘Update Now’.
+
+5. Update will be completed!  
